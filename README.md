@@ -21,6 +21,32 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=npm,git,github,vite,redux,&perline=14" />
     </a>
+    <h3 style="display: inline-block">⚙️ Backend Development</h3>
+    <h4 style="display: inline-block">Lenguajes</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts&perline=14" />
+    </a>
+    <h4 style="display: inline-block">Frameworks/Librerías</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
+    </a>
+    <h4 style="display: inline-block">Base de Datos</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb&perline=14" />
+    </a>
+    <h3 style="display: inline-block">☁️ DevOps & Cloud</h3>
+    <h4 style="display: inline-block">Lenguajes</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts&perline=14" />
+    </a>
+    <h4 style="display: inline-block">Frameworks/Librerías</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
+    </a>
+    <h4 style="display: inline-block">Base de Datos</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb&perline=14" />
+    </a>
   </p>
 </div>
 <!--tech stack icons-->
