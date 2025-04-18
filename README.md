@@ -7,6 +7,12 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
+  <p align="center">
+    <summary><h4 style="display: inline-block">Languages</h4></summary>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,python,java&perline=14" />
+    </a>
+  </p>
 </div>
 <!--tech stack icons-->
 <p align="center">
