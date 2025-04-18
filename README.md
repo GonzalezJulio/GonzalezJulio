@@ -35,17 +35,21 @@
       <img src="https://skillicons.dev/icons?i=mongodb&perline=14" />
     </a>
     <h3 style="display: inline-block">☁️ DevOps & Cloud</h3>
-    <h4 style="display: inline-block">Lenguajes</h4>
+    <h4 style="display: inline-block">Plataformas Cloud</h4>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts&perline=14" />
+      <img src="https://skillicons.dev/icons?i=aws&perline=14" />
     </a>
-    <h4 style="display: inline-block">Frameworks/Librerías</h4>
+    <h4 style="display: inline-block">Orquestación & Contenedores:</h4>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=14" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform&perline=14" />
     </a>
-    <h4 style="display: inline-block">Base de Datos</h4>
+    <h4 style="display: inline-block">Herramientas de Automatización</h4>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb&perline=14" />
+      <img src="https://skillicons.dev/icons?i=ansible,jenkins,githubactions&perline=14" />
+    </a>
+    <h4 style="display: inline-block">Monitoreo</h4>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=14" />
     </a>
   </p>
 </div>
