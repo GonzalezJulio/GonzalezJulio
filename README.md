@@ -8,9 +8,10 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
   <p align="center">
-    <summary><h4 style="display: inline-block">Languages</h4></summary>
+    <h3 style="display: inline-block">Frontend Development</h3>
+    <summary><h4 style="display: inline-block">Lenguajes & Estilos</h4></summary>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,python,java&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,&perline=14" />
     </a>
   </p>
 </div>
