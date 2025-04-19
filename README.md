@@ -64,12 +64,12 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=highcontrast&layout=compact&langs_count=10" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=radical&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=radical&layout=compact&langs_count=10" /></span>
 </div>
 <div>
   <a href="https://github.com/GonzalezJulio/Tienda_LasGonzalez-Reactjs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=highcontrast&repo=Tienda_LasGonzalez_Reactjs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=highcontrast&repo=Tienda_LasGonzalez-Reactjs" />
   </a>
     <a href="https://github.com/yuebaix/nezha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
