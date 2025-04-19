@@ -4,7 +4,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-  <section align="rigth">
+  <section align="right">
     <h3 style="display: inline-block">🥷FullStack Development</h3>
     <h4 style="display: inline-block">Lenguajes</h4>
     <a href="https://skillicons.dev">
