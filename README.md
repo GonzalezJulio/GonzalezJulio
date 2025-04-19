@@ -3,7 +3,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-  <section align="center">
+  <section>
     
   <section align="left">
     <h3 style="display: inline-block">🥷FullStack Development</h3>
