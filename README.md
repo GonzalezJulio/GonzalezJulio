@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi , I'm Julio Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">Apasionado de la orquestación cloud con Kubernetes, Terraform y AWS, construyendo infraestructuras resilientes</h3>
 
 ---
 
-![followers](https://img.shields.io/github/followers/yuebaix?style=social)
-![stars](https://img.shields.io/github/stars/yuebaix?style=social)
+![followers](https://img.shields.io/github/followers/GonzalezJulio?style=social)
+![stars](https://img.shields.io/github/stars/GonzalezJulio?style=social)
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{GonzalezJulio}/count.svg" alt="GonzalezJulio :: Visitor's Count" /></p>
@@ -62,8 +62,8 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=yuebaix&theme=highcontrast&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuebaix&theme=highcontrast&layout=compact&langs_count=10" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=highcontrast&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 <div>
   <a href="https://github.com/yuebaix/pangu">
