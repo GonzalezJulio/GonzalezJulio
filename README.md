@@ -4,7 +4,9 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-  <section align="right">
+  <section align="center">
+    
+  <section align="left">
     <h3 style="display: inline-block">🥷FullStack Development</h3>
     <h4 style="display: inline-block">Lenguajes</h4>
     <a href="https://skillicons.dev">
@@ -27,7 +29,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb&perline=14" />
     </a>
     </section>
-    <section align="left">
+    <section align="right">
     <h3 style="display: inline-block">☁️ DevOps & Cloud</h3>
     <h4 style="display: inline-block">Plataformas Cloud</h4>
     <a href="https://skillicons.dev">
@@ -45,5 +47,6 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=grafana,prometheus&perline=14" />
     </a>
+  </section>
   </section>
 </div>
