@@ -64,24 +64,24 @@
 ### 🚦 Stats
 
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=radical&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=radical&layout=compact&langs_count=10" /></span>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=onedark&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=onedark&layout=compact&langs_count=10" /></span>
 </div>
 <div>
   <a href="https://github.com/GonzalezJulio/Tienda_LasGonzalez-Reactjs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=highcontrast&repo=Tienda_LasGonzalez-Reactjs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Tienda_LasGonzalez-Reactjs" />
   </a>
-    <a href="https://github.com/yuebaix/nezha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
+    <a href="https://github.com/GonzalezJulio/Buscador-PeliculasReactJs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Buscador-PeliculasReactJs" />
   </a>
-  <a href="https://github.com/yuebaix/hongjun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
+  <a href="https://github.com/GonzalezJulio/nodejs-server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=nodejs-server" />
   </a>
-  <a href="https://github.com/yuebaix/luya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
+  <a href="https://github.com/GonzalezJulio/pin-final-tf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=pin-final-tf" />
   </a>
-    <a href="https://github.com/yuebaix/nvwa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+    <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Ansible-AlmaLinux" />
   </a>
 </div>
 
