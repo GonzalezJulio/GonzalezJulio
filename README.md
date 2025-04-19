@@ -11,32 +11,28 @@
 <br/>
 <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
-- 🔭 I’m currently working on [pangu](https://github.com/yuebaix/pangu)
+- 🔭 I’m currently working on #[pangu](https://github.com/yuebaix/pangu)
 - 🌱 I’m currently learning **vue**
-- 👨‍💻 All of my projects are available at [https://github.com/yuebaix](https://github.com/yuebaix)
-- 📝 I regularly write articles on [https://blog.yuebaix.com](https://blog.yuebaix.com)
+- 👨‍💻 All of my projects are available at #[https://github.com/yuebaix](https://github.com/yuebaix)
+- 📝 I regularly write articles on #[https://blog.yuebaix.com](https://blog.yuebaix.com)
 - 💬 Ask me about **java**
-- 📫 How to reach me **yuebaix@outlook.com**
-- 📄 Know about my experiences [https://blog.yuebaix.com/top/about/](https://blog.yuebaix.com/top/about/)
+- 📫 How to reach me **gonzalezjuliodev@gmail.com**
 - ⚡ Fun fact **I'm familiar with several code languages.ie java,javascript,shell,python,golang,php**
+## 🛠 Tech Stack
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes)
 
-### 🛠 Tech Stack
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
 
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass)
 
-![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
