@@ -10,9 +10,10 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{GonzalezJulio}/count.svg" alt="GonzalezJulio :: Visitor's Count" /></p>
 <br/>
 
-- 🌱 I’m currently learning **🐍 Python Y ☕ Java**
-- 👨‍💻 All of my projects are available at #[https://github.com/GonzalezJulio](https://github.com/GonzalezJulio)
-- 📫 How to reach me **gonzalezjuliodev@gmail.com**
+- 🌱 Actualmente estoy aprendiendo **🐍 Python Y ☕ Java**
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/GonzalezJulio](https://github.com/GonzalezJulio)
+- 📫 Cómo contactarme **gonzalezjuliodev@gmail.com**
+
 
 ## 🛠️ Tech Stack Completo
 
