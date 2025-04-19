@@ -68,8 +68,8 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 <div>
-  <a href="https://github.com/yuebaix/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
+  <a href="https://github.com/GonzalezJulio/Tienda_LasGonzalez-Reactjs">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=highcontrast&repo=Tienda_LasGonzalez_Reactjs" />
   </a>
     <a href="https://github.com/yuebaix/nezha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
