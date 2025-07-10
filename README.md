@@ -9,7 +9,7 @@
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/GonzalezJulio/count.svg" alt="GonzalezJulio :: Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/{GonzalezJulio}/count.svg" alt="GonzalezJulio :: Visitor's Count" />
 </p>
 <br/>
 
