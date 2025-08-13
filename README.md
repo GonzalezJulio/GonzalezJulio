@@ -13,7 +13,7 @@
 </p>
 <br/>
 
-- 🌱 Actualmente estoy aprendiendo **🐍 Python Y ☕ Java**
+- 🌱 Actualmente estoy aprendiendo **🐍 Python**
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/GonzalezJulio](https://github.com/GonzalezJulio)
 - 📫 Cómo contactarme **gonzalezjuliodev@gmail.com**
 
@@ -54,10 +54,9 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](#)
 
 ## 🧠 Tecnologías en Aprendizaje
-[![Java](https://img.shields.io/badge/Java-En_aprendizaje-007396?style=flat&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-En_aprendizaje-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)](#)
-[![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](#)
+
 
 ### 💬 Contact Me
 
