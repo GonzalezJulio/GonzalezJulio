@@ -13,9 +13,16 @@
 </p>
 <br/>
 
-- 🌱 Actualmente estoy aprendiendo **🐍 Python**
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/GonzalezJulio](https://github.com/GonzalezJulio)
-- 📫 Cómo contactarme **gonzalezjuliodev@gmail.com**
+## 🚀 About Me
+
+💼 **DevOps Engineer Junior** con pasión por la **orquestación cloud**, la automatización y la infraestructura como código.  
+📍 Desde Córdoba, Argentina 🌎  
+🎓 Finalicé la **Diplomatura en DevOps** (Mundos E - FCEFyN UNC).  
+💻 Experiencia trabajando con **AWS, Kubernetes, Terraform, Docker** y más.  
+🐍 Actualmente aprendiendo **Python** para ampliar mis habilidades en automatización y backend.  
+🛠️ Me encanta diseñar soluciones eficientes y optimizar procesos.  
+📈 Comprometido con el aprendizaje continuo y la mejora constante.  
+📬 Abierto a oportunidades y colaboraciones → **[gonzalezjuliodev@gmail.com](mailto:gonzalezjuliodev@gmail.com)**  
 
 
 ## 🛠️ Tech Stack Completo
