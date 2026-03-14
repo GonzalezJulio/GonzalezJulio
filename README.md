@@ -75,7 +75,7 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=onedark&layout=compact&langs_count=10" /></span>
 </div>
 <div>
-  <a href="https://github.com/GonzalezJulio/Tienda_LasGonzalez-Reactjs">
+  <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Tienda_LasGonzalez-Reactjs" />
   </a>
     <a href="https://github.com/GonzalezJulio/Buscador-PeliculasReactJs">
