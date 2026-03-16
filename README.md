@@ -76,18 +76,9 @@
 </div>
 <div>
   <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Tienda_LasGonzalez-Reactjs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=devops-python-ci-cd" />
   </a>
-    <a href="https://github.com/GonzalezJulio/Buscador-PeliculasReactJs">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Buscador-PeliculasReactJs" />
-  </a>
-  <a href="https://github.com/GonzalezJulio/nodejs-server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=nodejs-server" />
-  </a>
-  <a href="https://github.com/GonzalezJulio/pin-final-tf">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=pin-final-tf" />
-  </a>
-    <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
+  <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Ansible-AlmaLinux" />
   </a>
 </div>
