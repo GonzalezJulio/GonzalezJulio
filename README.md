@@ -81,6 +81,9 @@
   <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Ansible-AlmaLinux" />
   </a>
+ <a href="https://github.com/GonzalezJulio/devops-cicd-docker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=devops-cicd-docker" />
+  </a>
 </div>
 
 -----
