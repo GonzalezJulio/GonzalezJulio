@@ -66,7 +66,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-aresden113@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aresdem113@gmail.com)
+[![Gmail](https://img.shields.io/badge/-gonzalezdevops01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aresdem113@gmail.com)
 
 ### 🚦 Stats
 
