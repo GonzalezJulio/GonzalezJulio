@@ -70,20 +70,41 @@
 
 ### 🚦 Stats
 
-<div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=onedark&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=onedark&layout=compact&langs_count=10" /></span>
-</div>
-<div>
-  <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=devops-python-ci-cd" />
-  </a>
-  <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=Ansible-AlmaLinux" />
-  </a>
- <a href="https://github.com/GonzalezJulio/devops-cicd-docker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&theme=onedark&repo=devops-cicd-docker" />
-  </a>
+<div align="center">
+  <img
+    width="400px"
+    height="158px"
+    src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=onedark&show_icons=true"
+  />
+
+  <img
+    width="260px"
+    height="158px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=onedark&layout=compact&langs_count=10"
+  />
 </div>
 
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-python-ci-cd&theme=onedark"
+    />
+  </a>
+
+  <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=Ansible-AlmaLinux&theme=onedark"
+    />
+  </a>
+
+  <a href="https://github.com/GonzalezJulio/devops-cicd-docker">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-cicd-docker&theme=onedark"
+    />
+  </a>
+
+</div>
 -----
