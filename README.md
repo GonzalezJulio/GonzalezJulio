@@ -70,23 +70,19 @@
 
 ### 🚦 Stats
 
-<div align="center">
+<p align="center">
   <img
-    width="400px"
-    height="158px"
-    src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&theme=onedark&show_icons=true"
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&show_icons=true&theme=onedark&cache_seconds=1800"
   />
 
   <img
-    width="260px"
-    height="158px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&theme=onedark&layout=compact&langs_count=10"
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&layout=compact&theme=onedark&cache_seconds=1800"
   />
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
   <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
     <img
@@ -106,5 +102,5 @@
     />
   </a>
 
-</div>
+</p>
 -----
