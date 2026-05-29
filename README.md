@@ -68,39 +68,37 @@
 
 [![Gmail](https://img.shields.io/badge/-gonzalezdevops01@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aresdem113@gmail.com)
 
-### 🚦 Stats
+## 🚀 GitHub Stats
 
 <p align="center">
   <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=GonzalezJulio&show_icons=true&theme=onedark&cache_seconds=1800"
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api?username=GonzalezJulio&show_icons=true&theme=tokyonight"
   />
 
   <img
-    height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezJulio&layout=compact&theme=onedark&cache_seconds=1800"
+    height="170"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GonzalezJulio&layout=compact&theme=tokyonight"
   />
 </p>
 
 <p align="center">
-
   <a href="https://github.com/GonzalezJulio/devops-python-ci-cd">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-python-ci-cd&theme=onedark"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-python-ci-cd&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/GonzalezJulio/Ansible-AlmaLinux">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=Ansible-AlmaLinux&theme=onedark"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GonzalezJulio&repo=Ansible-AlmaLinux&theme=tokyonight"
     />
   </a>
 
   <a href="https://github.com/GonzalezJulio/devops-cicd-docker">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-cicd-docker&theme=onedark"
+      src="https://github-readme-stats-fast.vercel.app/api/pin/?username=GonzalezJulio&repo=devops-cicd-docker&theme=tokyonight"
     />
   </a>
-
 </p>
 -----
