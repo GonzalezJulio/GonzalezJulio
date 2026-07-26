@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/github-banner.png" alt="Julio Gonzalez | Cloud Engineer" width="100%">
+  <img src="assets/banner.png" alt="Julio Gonzalez | Cloud Engineer" width="100%">
 </p>
 
 <h1 align="center">
