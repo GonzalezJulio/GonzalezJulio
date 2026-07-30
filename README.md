@@ -40,7 +40,7 @@ Passionate about building scalable cloud infrastructure, automating deployments,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GonzalezJulio&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=GonzalezJulio&label=Visitors&color=0A66C2&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
