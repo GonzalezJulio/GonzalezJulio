@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="assets/banner.png" alt="Julio Gonzalez | Cloud Engineer" width="100%">
 </p>
@@ -53,6 +52,7 @@ I'm a **Cloud & DevOps Engineer** passionate about designing, automating and ope
 - 🚀 Kubernetes & Docker
 - ⚙️ Infrastructure as Code with Terraform & Ansible
 - 🔄 CI/CD with GitHub Actions
+- 🔀 GitOps with ArgoCD
 - 📈 Monitoring using Prometheus & Grafana
 - 🐍 Learning Python Automation & Backend Development
 - 🎯 Interested in Platform Engineering, GitOps and Cloud Architecture
@@ -83,6 +83,10 @@ Explore my projects, certifications and technical journey.
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,python,git,githubactions,prometheus,grafana,mongodb,mysql,postgresql,nodejs,express,react,javascript"/>
 
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
 </p>
 
 ---
@@ -161,8 +165,8 @@ Infrastructure automation using GitOps principles, Terraform and Kubernetes.
 
 🎯 Currently Preparing
 
-- AWS Solutions Architect Associate
-- KCNA (Kubernetes and Cloud Native Associate)
+- CKA (Certified Kubernetes Administrator)
+- AWS Certified Solutions Architect – Associate
 
 ---
 
@@ -208,8 +212,8 @@ src="https://streak-stats.demolab.com?user=GonzalezJulio&theme=tokyonight&hide_b
 - 🔄 GitOps Platform
 - 🔄 Platform Engineering
 - 🔄 Python Automation
+- 🔄 CKA Certification
 - 🔄 AWS Solutions Architect Associate
-- 🔄 KCNA Certification
 
 ---
 
