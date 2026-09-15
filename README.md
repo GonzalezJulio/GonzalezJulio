@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-Cloud Engineer • DevOps Engineer • AWS • Kubernetes • Terraform • GitOps
+Junior Cloud Engineer • DevOps Engineer • AWS • Kubernetes • Terraform • GitOps
 </h3>
 
 <p align="center">
