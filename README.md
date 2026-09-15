@@ -159,15 +159,11 @@ Infrastructure automation using GitOps principles, Terraform and Kubernetes.
 
 # 📜 Certifications
 
-✅ AWS Certified Cloud Practitioner *(planned)*
-
 ✅ DevOps Engineering Diploma — Mundos E + UNC
 
 🎯 Currently Preparing
-
 - CKA (Certified Kubernetes Administrator)
-- AWS Certified Solutions Architect – Associate
-
+- AWS Solutions Architect Associate
 ---
 
 # 📊 GitHub Statistics
